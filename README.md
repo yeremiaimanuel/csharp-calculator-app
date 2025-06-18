@@ -30,3 +30,5 @@ This project showcases basic UI event handling and math operations in a desktop 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/calculator-app.git
+2. Open the solution file (.sln) in Visual Studio.
+3. Build and run the project.
