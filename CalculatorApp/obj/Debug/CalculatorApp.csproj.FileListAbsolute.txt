@@ -1,0 +1,10 @@
+C:\Users\USER\OneDrive - Universitas Multimedia Nusantara\Dokumen\Semester 4\Visprog\Learning\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\USER\OneDrive - Universitas Multimedia Nusantara\Dokumen\Semester 4\Visprog\Learning\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\USER\OneDrive - Universitas Multimedia Nusantara\Dokumen\Semester 4\Visprog\Learning\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\USER\OneDrive - Universitas Multimedia Nusantara\Dokumen\Semester 4\Visprog\Learning\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive - Universitas Multimedia Nusantara\Dokumen\Semester 4\Visprog\Learning\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+C:\Users\USER\OneDrive - Universitas Multimedia Nusantara\Dokumen\Semester 4\Visprog\Learning\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\USER\OneDrive - Universitas Multimedia Nusantara\Dokumen\Semester 4\Visprog\Learning\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive - Universitas Multimedia Nusantara\Dokumen\Semester 4\Visprog\Learning\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - Universitas Multimedia Nusantara\Dokumen\Semester 4\Visprog\Learning\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\USER\OneDrive - Universitas Multimedia Nusantara\Dokumen\Semester 4\Visprog\Learning\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
