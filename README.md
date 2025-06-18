@@ -1,4 +1,4 @@
 # Calculator
-C# Simple Calculator using Windows Forms Application
+A simple yet functional calculator application built using C# Windows Forms. 
 
-![image](https://github.com/user-attachments/assets/e2405d81-0639-4470-9b65-fd6aa9a82951)
+![Calculator UI](https://github.com/user-attachments/assets/c5b370d5-40fa-49ad-a3a9-fd59c0ef6507)
